@@ -1,2 +1,1 @@
-# VS_C
-j
+# THIS FOR C/C++
